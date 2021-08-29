@@ -1,6 +1,6 @@
 import requests
 import argparse
-from json import loads,dumps
+
 
 
 parser = argparse.ArgumentParser(description="Instagram Video Downloader")
