@@ -1,4 +1,4 @@
-# InstaDownloader
+# Instagram Video Downloader
 Instagram Video Downloader
 
 ## Usage 
